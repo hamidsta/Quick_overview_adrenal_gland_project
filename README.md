@@ -1,1 +1,2 @@
-# Quick_overview_adrenal_gland_project
+# A Quick overview of the adrenal gland sexual dimorphism analysis through a multiomics Sc ATAC - Gene expression Dataset , provided through 10X genomics multiomics protocol 
+
